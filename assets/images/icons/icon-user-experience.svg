@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="82" viewBox="0 0 82 82">
+  <g id="icon-user-experience" transform="translate(3 2.75)">
+    <rect id="Rectangle_56" data-name="Rectangle 56" width="82" height="82" transform="translate(-3 -2.75)" fill="rgba(255,255,255,0)"/>
+    <g id="Group_260" data-name="Group 260" transform="translate(0.623 0.63)">
+      <rect id="Rectangle_54" data-name="Rectangle 54" width="42.909" height="1.538" transform="translate(15.921 12.71)" fill="#303030"/>
+      <rect id="Rectangle_55" data-name="Rectangle 55" width="42.909" height="1.538" transform="translate(15.921 20.191)" fill="#303030"/>
+      <path id="Path_388" data-name="Path 388" d="M38.1,29.644H70.75V4.25H4V29.644h6.893V56.126H4V70.637H18.511V56.126H12.344V29.644H36.649V56.126H30.12V70.637H44.63V64.47H56.239v6.167H70.75V56.126H56.239v6.893H44.63V56.126H38.1V44.155H56.239v6.167H70.75V35.811H56.239V42.7H38.1ZM17.06,69.186H5.451V57.577H17.06ZM5.451,5.7H69.3V28.193H5.451ZM57.69,57.577H69.3V69.186H57.69ZM43.179,69.186H31.571V57.577H43.179ZM57.69,37.262H69.3V48.871H57.69Z" transform="translate(0 0)" fill="#303030" stroke="#303030" stroke-width="0.7"/>
+    </g>
+  </g>
+</svg>

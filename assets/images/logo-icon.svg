@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="267" viewBox="0 0 470 267">
+  <g id="logo-icon" transform="translate(-118.98 -291.72)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="470" height="267" transform="translate(118.98 291.72)" fill="none"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-32.01 -13.33)">
+      <path id="Path_27" d="M303.121,246.3A108.648,108.648,0,0,1,221.2,211.73a115.093,115.093,0,0,1,0-161.179,110.063,110.063,0,0,1,81.917-33.785,108.674,108.674,0,0,1,79.334,33.785,113.151,113.151,0,0,1,1.291,159.96l-1.291,1.291A107.829,107.829,0,0,1,303.121,246.3Z" transform="translate(127.543 307.314)" fill="#feea6a"/>
+      <g id="Group_250" transform="translate(228.99 406.063)">
+        <g id="Group_13" transform="translate(105.125 38.184)">
+          <path id="Path_28" d="M34.334,24.937s24.259-12,41.951,9.529l4.024-3.3S65.769,7.966,33.84,19.811C33.727,19.47,34.334,24.937,34.334,24.937Z" transform="translate(-33.826 -16.443)" fill="#050706"/>
+        </g>
+        <ellipse id="Ellipse_9" cx="51.936" cy="51.936" rx="51.936" ry="51.936" fill="none" stroke="#050706" stroke-miterlimit="10" stroke-width="5"/>
+        <ellipse id="Ellipse_10" cx="51.936" cy="51.936" rx="51.936" ry="51.936" transform="translate(145.86 23.842)" fill="none" stroke="#050706" stroke-miterlimit="10" stroke-width="5"/>
+        <ellipse id="Ellipse_11" cx="30.106" cy="30.106" rx="30.106" ry="30.106" transform="translate(11.579 39.863)" fill="#1a1818"/>
+        <ellipse id="Ellipse_12" cx="30.106" cy="30.106" rx="30.106" ry="30.106" transform="translate(163.855 64.198)" fill="#1a1818"/>
+      </g>
+    </g>
+  </g>
+</svg>
